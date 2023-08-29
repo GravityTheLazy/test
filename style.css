@@ -13,7 +13,7 @@ body {
     display        : flex;
     justify-content: center;
     align-items    : center;
-    background     : linear-gradient(20deg, #f39c12, #58d68d);
+    background     : linear-gradient(20deg, #e97fdf, #2fa6b4);
 }
 
 .profile-container {
